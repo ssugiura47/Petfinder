@@ -1,3 +1,15 @@
+OVERVIEW: In this project, we found data on kaggle and we Extracted, Transformed, and Loaded our data into pgAdmin.
+
+GROUP PROJECT MEMBERS:
+Saki Sugiura and Belinda Soerjohadi
+
+FEATURES:
+    pgAdmin
+
+LANGUAGES/INSTALLATONS:
+    Python
+
+NOTE:
 # ETL
 •	Extract: data sources 
 •	Transform: data cleaning/transformation
