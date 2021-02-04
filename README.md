@@ -11,7 +11,7 @@ LANGUAGES/INSTALLATONS:
 
 FINDINGS/SUMMARY: More cats were up for adoption than dogs. There were varies breeds. We were able to successfully Extract - Trasform - Load our data.
 
-![](Images/SQL_query.png)
+![Image](images/SQL_query.png)
 
 NOTE:
 # ETL
