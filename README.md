@@ -9,6 +9,8 @@ FEATURES:
 LANGUAGES/INSTALLATONS:
     Python
 
+FINDINGS/SUMMARY: More cats were up for adoption than dogs. There were varies breeds. We were able to successfully Extract - Trasform - Load our data.
+
 NOTE:
 # ETL
 •	Extract: data sources 
@@ -21,4 +23,3 @@ NOTE:
 
 **Load: Used sqlachemy to load our final tables into pgAdmin. 11 final tables used to upload in production database. Used pgAdmin because it was more structured with no missing data. 
 
-FINDINGS/SUMMARY: More cats were up for adoption than dogs. There were varies breeds. We were able to successfully Extract - Trasform - Load our data.
